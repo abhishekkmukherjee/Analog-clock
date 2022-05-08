@@ -1,7 +1,12 @@
+*{
+    background-color: black;
+}
+
+
 #clockContainer{
     position: relative;
     margin: auto;
-   border: 2px solid black;
+  
     height: 40vw;
     width: 40vw;
     background: url(images/clock.png);
@@ -38,4 +43,12 @@ height: 40%;
 top: 9%;
 left:49.5%;
 opacity:0.8;
+}
+.footer{
+    color: white;
+  
+}
+.footer a {
+    text-decoration: none;
+    color: white;
 }
