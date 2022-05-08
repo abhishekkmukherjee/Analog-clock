@@ -1,5 +1,5 @@
 
-setTimeout(() => {
+setInterval(() => {
     d = new Date();
     htime = d.getHours();
     mtime = d.getMinutes();
